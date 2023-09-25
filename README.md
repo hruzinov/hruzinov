@@ -5,7 +5,7 @@
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/e.gruzinov)
 [![Email](https://img.shields.io/badge/-Email-lightgrey?logo=Mail.Ru)](mailto:evhen@gruzinov.com)
-[![Telegram](https://img.shields.io/badge/-Telegram-blue?logo=telegram)](https://t.me/gruzinov_evhen)
+[![Telegram](https://img.shields.io/badge/-Telegram-blue?logo=telegram)](https://t.me/hruzinov)
 
 
 # 💻 Tech Stack:
