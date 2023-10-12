@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Evhen Gruzinov<br><br>🌱 I’m currently learning Swift and creating apps for iOS and macOS<br><br>💞️ I’m looking to collaborate on development of useful apps and games
+👋 Hi, I’m Evhen Gruzinov<br><br>🌱 iOS and macOS app developer. Currently learning Kotlin for Multiplatform﻿ <br><br>💞️ Looking to collaborate on the development of useful apps and games
 
 
 ### Skills  
