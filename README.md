@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Evhen Gruzinov<br><br>🌱 iOS and macOS app developer. Currently learning Kotlin for Multiplatform﻿ <br><br>💞️ Looking to collaborate on the development of useful apps and games
+👋 Hi, I’m Yevhen Hruzinov<br><br>🌱 iOS and macOS applications developer. Currently learning Kotlin for Multiplatform﻿ <br><br>💞️ Looking to collaborate on the development of useful apps and games
 
 
 ### Skills  
