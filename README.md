@@ -1,13 +1,13 @@
 Hi 👋 My name is Yevhen Hruzinov
 ================================
 
-iOS Engineer and photographer
+iOS Engineer and photographer (a little)
 -----------------------------
 
 * 🌍  I'm based in Warsaw, Poland
-* ✉️  You can contact me at [yevhen@hruzinov.com](mailto:yevhen@hruzinov.com)
+* ✉️  You can contact me at [yevhen@hruzinov.dev](mailto:yevhen@hruzinov.dev)
 * 🧠  I'm learning Kotlin for Multiplatform﻿
-* 🤝  I'm open to collaborating on development of useful apps and games
+* 🤝  I'm open to collaborating on the development of useful apps and games
 
 ### Skills
 
