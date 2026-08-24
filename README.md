@@ -1,30 +1,34 @@
-Hi 👋 My name is Yevhen Hruzinov
-================================
+**Swift and React Native app developer.**
 
-iOS Engineer and photographer (a little)
------------------------------
-
-* 🌍  I'm based in Warsaw, Poland
-* ✉️  You can contact me at [yevhen@hruzinov.dev](mailto:yevhen@hruzinov.dev)
-* 🧠  I'm learning Kotlin for Multiplatform﻿
-* 🤝  I'm open to collaborating on the development of useful apps and games
-
-### Skills
+In work time, make useful apps and tools; in free – make photos, drink coffee, and some secret stuff :3
 
 
-<p align="left">
-<a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/swift-colored.svg" width="36" height="36" alt="Swift" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a><a href="https://apple.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/macos-colored.svg" width="36" height="36" alt="MacOS" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a><a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
-</p>
+[Website](https://hruzinov.dev) · [Email](mailto:yevhen@hruzinov.dev) · [LinkedIn](https://www.linkedin.com/in/hruzinov) · [Telegram](https://t.me/hruzinov)
 
 
-### Socials
 
-<p align="left"> <a href="https://www.github.com/hruzinov" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="http://www.instagram.com/hruzinov.ph/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/hruzinov" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
+## Languages
 
-### Badges
+  [<img height="48px" width="48px" alt="Swift" src="https://skillicons.dev/icons?i=swift"/>](https://www.swift.org/)
+  [<img height="48px" width="48px" alt="TypeScript" src="https://skillicons.dev/icons?i=ts"/>](https://www.typescriptlang.org/)
+  [<img height="48px" width="48px" alt="JavaScript" src="https://skillicons.dev/icons?i=js"/>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+  [<img height="48px" width="48px" alt="Kotlin" src="https://skillicons.dev/icons?i=kotlin"/>](https://kotlinlang.org/)
 
-<b>My GitHub Stats</b>
+## Tools
+  [<img height="48px" width="48px" alt="Xcode" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xcode/xcode-original.svg"/>](https://developer.apple.com/xcode/)
+  [<img height="48px" width="48px" alt="Android Studio" src="https://skillicons.dev/icons?i=androidstudio"/>](https://developer.apple.com/xcode/)
+  [<img height="48px" width="48px" alt="React Native" src="https://skillicons.dev/icons?i=react"/>](https://reactnative.dev/)
+  [<img height="48px" width="48px" alt="Next.js" src="https://skillicons.dev/icons?i=nextjs"/>](https://nextjs.org/)
+  [<img height="48px" width="48px" alt="Convex" src="https://cdn.simpleicons.org/convex"/>](https://www.convex.dev/)
+  [<img height="48px" width="48px" alt="Postman" src="https://skillicons.dev/icons?i=postman"/>](https://www.postman.com/)
+  [<img height="48px" width="48px" alt="Sentry" src="https://skillicons.dev/icons?i=sentry"/>](https://sentry.io/)
+  [<img height="48px" width="48px" alt="Git" src="https://skillicons.dev/icons?i=git"/>](https://git-scm.com/)
+  [<img height="48px" width="48px" alt="GitHub" src="https://skillicons.dev/icons?i=github"/>](https://github.com/)
+  
 
-<a href="http://www.github.com/hruzinov"><img src="https://github-readme-stats.vercel.app/api?username=hruzinov&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="hruzinov's GitHub stats" /></a>
-
-<a href="http://www.github.com/hruzinov"><img src="https://github-readme-streak-stats.herokuapp.com/?user=hruzinov&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+  [<img height="48px" width="48px" alt="Fastlane" src="https://cdn.simpleicons.org/fastlane"/>](https://fastlane.tools/)
+  [<img height="48px" width="48px" alt="GitHub Actions" src="https://skillicons.dev/icons?i=githubactions"/>](https://github.com/features/actions)
+  [<img height="48px" width="48px" alt="CircleCI" src="https://cdn.simpleicons.org/circleci/35C994"/>](https://circleci.com/)
+  [<img height="48px" width="48px" alt="Codemagic" src="https://cdn.simpleicons.org/codemagic/F45E3F"/>](https://codemagic.io/)
+  [<img height="48px" width="48px" alt="Vercel" src="https://skillicons.dev/icons?i=vercel"/>](https://vercel.com/)
+  [<img height="48px" width="48px" alt="Photoshop" src="https://skillicons.dev/icons?i=ps"/>](https://www.adobe.com/products/photoshop.html)
