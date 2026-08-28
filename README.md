@@ -4,6 +4,8 @@
 
 At work I make useful apps and tools; in my free time I take photos, drink coffee, and do some secret stuff :3
 
+_Mostly work account. Real projects hidden in some other place_ 🌚
+
 [Website](https://hruzinov.dev) · [Email](mailto:yevhen@hruzinov.dev) · [LinkedIn](https://www.linkedin.com/in/hruzinov) · [Telegram](https://t.me/hruzinov)
 
 ## Tech stack
